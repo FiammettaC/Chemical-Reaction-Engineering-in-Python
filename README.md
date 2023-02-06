@@ -26,3 +26,6 @@ Python is one of the most popular languages in use today, thanks to its easy syn
 
 ## Contacts
 If you have any questions regarding the exercises or any feedback on the course, feel free to contact Fiammetta Caccavale (fiacac@kt.dtu.dk).
+
+## Feedback
+Please fill in our online survey if you have any feedback: https://forms.gle/YSpXw5awUHGtMYas5. We really appreciate your suggestions and we will try to use them to improve the course.
