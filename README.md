@@ -31,4 +31,7 @@ Here you can find instructions [how to install Python](Chemical-Reaction-Enginee
 If you have any questions regarding the exercises or any feedback on the course, feel free to contact Fiammetta Caccavale (fiacac@kt.dtu.dk).
 
 ## Feedback
-Please fill in our online survey if you have any feedback: https://forms.gle/YSpXw5awUHGtMYas5. We really appreciate your suggestions and we will try to use them to improve the course.
+Please fill in our [online survey](https://forms.gle/xJ1uJc94G9c7YUtJ7) if you have any feedback. We really appreciate your suggestions and we will try to use them to improve the course.
+
+## Cite this work
+The work has been presented at the 33rd European Symposium on Computer-Aided Process Engineering (ESCAPE33), Athens, 18-21 June.
