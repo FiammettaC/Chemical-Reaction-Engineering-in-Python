@@ -26,6 +26,9 @@ Here you can find instructions [how to install Python](Chemical-Reaction-Enginee
 3. **Brainstorm first**. Instead of reading a problem and looking for a solution on the Internet, try to think about it yourself. Re-read the problem, brainstorm possible solutions and try to write some code. Make sure that you actually understand what it is asked. Only after you have spent sufficient time on this, look for hints elsewhere.
 4. **Learn to comment your code early on**. Before coding, visualize what you plan to do and describe is in plan, non-technical text on paper. Try to be as detailed as possible and include all the steps, even the smallest ones. This will be helpful at the beginning of your coding experience to guide you through the process and ensure you do not forget important steps. Later on, when you are more comfortable coding, it will be helpful for reference for you or other teammates. Remember that just because something seems easy for you, it does not mean your colleague can read your code and understand it right away. This is a very important principle for code deployment.
 5. **Understand what the program is doing**. It is important that you understand what your program is doing. Often, it is useful to simply print what you are doing, this is an easy way to visualize, and therefore better understand, the output. This approach is called tracing or printf() debugging, after the print function name in the C language).
+6. 
+## Other courses
+We are created other Python courses tailored for Chemical Engineers, such as [Chemical Reaction Engineering in Python](https://github.com/FiammettaC/AI-for-Chemical-Engineers).
 
 ## Contacts
 If you have any questions regarding the exercises or any feedback on the course, feel free to contact Fiammetta Caccavale (fiacac@kt.dtu.dk).
