@@ -28,7 +28,7 @@ Here you can find instructions [how to install Python](Chemical-Reaction-Enginee
 5. **Understand what the program is doing**. It is important that you understand what your program is doing. Often, it is useful to simply print what you are doing, this is an easy way to visualize, and therefore better understand, the output. This approach is called tracing or printf() debugging, after the print function name in the C language).
 6. 
 ## Other courses
-We are created other Python courses tailored for Chemical Engineers, such as [Chemical Reaction Engineering in Python](https://github.com/FiammettaC/AI-for-Chemical-Engineers).
+We are created other Python courses tailored for Chemical Engineers, such as [AI for Chemical Engineers](https://github.com/FiammettaC/AI-for-Chemical-Engineers).
 
 ## Contacts
 If you have any questions regarding the exercises or any feedback on the course, feel free to contact Fiammetta Caccavale (fiacac@kt.dtu.dk).
