@@ -34,7 +34,7 @@ If you have any questions regarding the exercises or any feedback on the course,
 Please fill in our [online survey](https://forms.gle/xJ1uJc94G9c7YUtJ7) if you have any feedback. We really appreciate your suggestions and we will try to use them to improve the course.
 
 ## Cite this work
-If you would like to cite this work, please reference our paper: **SPyCE: A structured and tailored series of Python courses for (bio)chemical engineers** as:
+If you would like to cite this work, please reference our paper: **SPyCE: A structured and tailored series of Python courses for (bio)chemical engineers**.
 ```bibtex
 @article{CACCAVALE202390,
 title = {SPyCE: A structured and tailored series of Python courses for (bio)chemical engineers},
