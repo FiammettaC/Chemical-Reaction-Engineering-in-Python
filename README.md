@@ -15,7 +15,9 @@ Python is one of the most popular languages in use today, thanks to its easy syn
 
 ## Installation
 Here you can find instructions [how to install Python](https://github.com/FiammettaC/Chemical-Reaction-Engineering-in-Python/blob/main/installation_instructions.docx).
+
 Or watch the [video tutorial](https://drive.google.com/file/d/1JD-xaiPfCqbrU8kEEFfMyCaTrEYbSyWb/view?usp=sharing).
+
 For more video tutorial, check this [folder](https://drive.google.com/drive/folders/1eIRsWmd1AKE1qkJ5ubGg0JA-cXQcsjtq?usp=sharing).
 
 ## Helpful tips and tricks before starting
