@@ -40,6 +40,15 @@ If you have any questions regarding the exercises or any feedback on the course,
 ## Feedback
 Please fill in our [online survey](https://forms.gle/xJ1uJc94G9c7YUtJ7) if you have any feedback. We really appreciate your suggestions and we will try to use them to improve the course.
 
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+Give a ⭐️ if you like this project!
+
+## 📝 License
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+
 ## Cite this work
 If you would like to cite this work, please reference our paper: **SPyCE: A structured and tailored series of Python courses for (bio)chemical engineers**.
 ```bibtex
