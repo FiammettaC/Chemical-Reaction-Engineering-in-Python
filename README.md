@@ -1,4 +1,4 @@
-# Chemical-Reaction-Engineering-in-Python
+# Chemical-Reaction-Engineering-in-Python :ear_of_rice:
 
 ## TL;DR
 This is a practical course designed for chemical engineers that want to learn how to program in Python. The course is very practical and will cover various topics, such as basic Python syntax, solving ODEs, stoichiometry, data visualization and basic data analysis.
@@ -10,10 +10,10 @@ This course is designed to be very practical, since the best way to learn how to
 
 The course may be challenging and overwhelming at the beginning, but don't worry if you don't manage to complete everything. Each week, there will be a mandatory notebook of exercises 01-Exercises and an additional, optional, notebook containing more challenging exercises, for learners that want to test themselves and like to crack the code (pun intended).
 
-## Why Python?
+## :snake: Why Python?
 Python is one of the most popular languages in use today, thanks to its easy syntax, readability, libraries available and broad documentation. It is open-source, unlike other very popular programs such as MATLAB, which require a license. It has a big community, meaning that other people have probably already asked any possible question you might be having right now. Some forums where to ask and look for questions: StackOverflow (for practical questions about code), StackExchange (for more theoretical questions). It is the to-go language for data analysis and data science, both in academia and industry.
 
-## Installation
+## :wrench: Installation
 Here you can find instructions [how to install Python](https://github.com/FiammettaC/Chemical-Reaction-Engineering-in-Python/blob/main/installation_instructions.docx).
 
 Or watch the [video tutorial](https://drive.google.com/file/d/1JD-xaiPfCqbrU8kEEFfMyCaTrEYbSyWb/view?usp=sharing).
