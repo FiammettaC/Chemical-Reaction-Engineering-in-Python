@@ -13,6 +13,26 @@ The course may be challenging and overwhelming at the beginning, but don't worry
 ## :snake: Why Python?
 Python is one of the most popular languages in use today, thanks to its easy syntax, readability, libraries available and broad documentation. It is open-source, unlike other very popular programs such as MATLAB, which require a license. It has a big community, meaning that other people have probably already asked any possible question you might be having right now. Some forums where to ask and look for questions: StackOverflow (for practical questions about code), StackExchange (for more theoretical questions). It is the to-go language for data analysis and data science, both in academia and industry.
 
+## Schedule
+- Introduction to the course. Introduction, motivation, tips and tricks, package installation. General syntax: indentation, for loop, while loop, functions and classes.
+- Data structures. Data structures: lists, arrays, strings, dictionaries, pandas dataframe.
+- Data visualization. Plotting with matplotlib library
+- Solvers. Solving systems of equations and stoichiometry.
+- Data analysis. Data loading, extraction, cleaning, preprocessing, analysis.
+- Balances. Mass balance, energy balance.
+
+## Learning Objectives
+- Master the Python's syntax, familiarize with arithmetic operations, assignment and compound statements.
+- Learn reusing Python code efficiently through functions and classes.
+- Master the usage of main data structures used in Python, such as lists, generators, dictionaries, sets, dataframes and arrays.
+- Effectively visualize and analyze data.
+- Operate the reactor based on kinetics for elementary and non-elementary reactions.
+- Understand the ideal reaction models: batch, continuous-stirred tank and plug flow.
+- Understand the mathematical models for the three ideal types of reactor under isothermal conditions.
+- Understand the mass balances for the three ideal reactor systems.
+- Measure the reaction kinetics to obtain a rate expression.
+- Carry out energy balances for the reactor types for a single reaction.
+
 ## :wrench: Installation
 Here you can find instructions [how to install Python](https://github.com/FiammettaC/Chemical-Reaction-Engineering-in-Python/blob/main/installation_instructions.docx).
 
