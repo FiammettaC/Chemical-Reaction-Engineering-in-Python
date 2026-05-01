@@ -1,0 +1,5 @@
+This GitHub repo is used in the Chemical Reaction Engineering course taught at the Technical University of Denmark (DTU).
+
+In this folder, you can find the exercises that were provided in the class.
+
+Feel free to reach out to fiacac@dtu.dk for further info on these exercises.
